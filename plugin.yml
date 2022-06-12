@@ -1,0 +1,16 @@
+name: XzozXKeyShop
+main: XzozXTree\KeyShop\Main
+version: 1.0.0
+api: 4.0.0
+author: XzozXTree
+description: "Open XzozX KeyShop Menu"
+
+commands:
+  keyshop:
+    description: "§eXzozX KeyShop"
+    permission: keyshop.cmd
+
+permissions:
+  keyshop.cmd:
+    description: "XzozXKeyShop Permission"
+    default: true
